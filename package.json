@@ -27,6 +27,12 @@
     "eject": "react-scripts eject",
     "heroku-postbuild": "npm run build"
   },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
   "devDependencies": {
     "@amcharts/amcharts4": "^4.4.1",
     "@amcharts/amcharts4-geodata": "^4.1.4"
